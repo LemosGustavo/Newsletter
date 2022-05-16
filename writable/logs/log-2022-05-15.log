@@ -1,0 +1,1067 @@
+ERROR - 2022-05-15 12:11:16 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:23:25 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:23:49 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:26:44 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:29:13 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:31:20 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:33:12 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:37:01 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 1
+                    [name] => Sports
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 4
+                    [banner] => 1652621341_a6a53f20447484d47d14.png
+                    [title] => Ejercicio 1
+                    [slug] => Ejercicio-4
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol, esta es la prueba
+                    [show_home] => 1
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [1] => Array
+                (
+                    [id] => 5
+                    [banner] => 1652622713_6b1990d54ada2f953947.png
+                    [title] => Ejercicio 2
+                    [slug] => Ejercicio-5
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [2] => Array
+                (
+                    [id] => 6
+                    [banner] => 1652622941_4c051651e23772006826.png
+                    [title] => Ejercicio 3
+                    [slug] => Ejercicio-6
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [3] => Array
+                (
+                    [id] => 7
+                    [banner] => 1652623081_9fb46808fbaee0c5972f.png
+                    [title] => Ejercicio 4
+                    [slug] => Ejercicio-7
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [4] => Array
+                (
+                    [id] => 8
+                    [banner] => 1652623143_1388879459fe05050965.png
+                    [title] => Ejercicio 5
+                    [slug] => Ejercicio-8
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [5] => Array
+                (
+                    [id] => 9
+                    [banner] => 1652623161_4a278bd80ecfc8fa9073.png
+                    [title] => Ejercicio 6
+                    [slug] => Ejercicio-9
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+            [6] => Array
+                (
+                    [id] => 10
+                    [banner] => 1652623207_aa42de8bdc1fcd67711d.png
+                    [title] => Ejercicio 7
+                    [slug] => Ejercicio-10
+                    [intro] => Intro
+                    [content] => sadsadasdaadss
+                    [category] => 1
+                    [tags] => agua y alcohol
+                    [show_home] => 0
+                    [created_at] => 2022-05-15
+                    [created_by] => 0
+                    [deleted] => 0
+                )
+
+        )
+
+)
+
+ERROR - 2022-05-15 12:37:38 --> Array
+(
+    [category] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [name] => Culture
+                    [deleted] => 0
+                )
+
+        )
+
+    [posts] => Array
+        (
+        )
+
+)
+
